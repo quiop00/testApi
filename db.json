@@ -21,12 +21,7 @@
     "schedule":[
       {
         "teachingDay":"Thứ 2",
-        "times":[
-          {
-            "startingTime":"1700",
-            "endTime":"2000"
-          },
-        ],
+        
       },
      ],
   },
