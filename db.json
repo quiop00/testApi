@@ -23,8 +23,8 @@
         "teachingDay":"Thứ 2",
         "times":[
           {
-            "startingTime":"17:00",
-            "endTime":"20:00"
+            "startingTime":"1700",
+            "endTime":"2000"
           },
         ],
       },
