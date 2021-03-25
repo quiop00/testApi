@@ -21,6 +21,7 @@
     "schedule":[
       {
         "teachingDay":"Thứ 2",
+        "times": "17h"
       },
      ],
   },
