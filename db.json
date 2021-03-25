@@ -18,12 +18,7 @@
       }
     ],
     "rating": "4",
-    "schedule":[
-      {
-        "teachingDay":"Thứ 2",
-        "times": "17h"
-      },
-     ],
+   
   },
   {
     "id": "2",
