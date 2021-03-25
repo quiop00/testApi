@@ -18,6 +18,17 @@
       }
     ],
     "rating": "4",
+    "schedule":[
+      {
+        "teachingDay":"Thứ 2",
+        "times": [
+          {
+          "startingTime":"17:00",
+          "endTime":"19:00"
+          }  
+        ]
+      },
+     ],
    
   },
   {
