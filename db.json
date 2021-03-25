@@ -17,6 +17,7 @@
         "nameGrade": "Lớp 8"
       }
     ],
+    "rating": "4",
     "schedule":[
       {
         "teachingDay":"Thứ 2",
@@ -27,17 +28,7 @@
           },
         ],
       },
-      {
-        "teachingDay":"Thứ 3",
-        "times":[
-          {
-            "startingTime":"17:00",
-            "endTime":"20:00"
-          },
-        ],
-      },
      ],
-    "rating": "4"
   },
   {
     "id": "2",
