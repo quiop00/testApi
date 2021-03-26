@@ -1,22 +1,20 @@
-[
-  {
-    "id": "1",
-    "name": "Nguyễn Văn An",
-    "avatarPath": "https://ict-imgs.vgcloud.vn/2020/09/01/19/huong-dan-tao-facebook-avatar.jpg",
-    "subjects": [
-      {
-        "id": "1",
-        "subjectName": "Toán"
-      }
-    ],
-    "location": "Hải Châu, Đà Nẵng",
-    "grades": [
-      {
-        "gradeId": "1",
-        "nameGrade": "Lớp 8"
-      }
-    ],
-    "rating": "4",
-  },
- ]
+{
+  "notifies":[
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời",
+      "readingStatus": "false"
+    },
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời tới bạn",
+      "readingStatus": "false"
+    },
+    {
+      "title":"A",
+      "content":"An đã gửi một lời mời đặt lịch",
+      "readingStatus": "false"
+    }
+  ]
+}
 
